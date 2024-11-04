@@ -37,3 +37,6 @@ where
     date BETWEEN '2024-01-10' AND 
     '2024-02-10 23:59'
     ORDER BY date
+
+
+    
