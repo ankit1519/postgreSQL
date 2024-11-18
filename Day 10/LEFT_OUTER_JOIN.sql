@@ -1,4 +1,4 @@
---OUTER LEFT JOIN
+--LEFT JOIN
 --find which aircraft used by which flight
 SELECT * FROM aircrafts_data a
 LEFT JOIN flights f
